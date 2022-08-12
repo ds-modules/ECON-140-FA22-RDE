@@ -1,5 +1,5 @@
 # ECON-140-FA22-RDE
-ECON 140 - Economic Statistics and Econometrics - Ryan Edwards - Fall 2022
+ECON 140 - Economic Statistics and Econometrics - Ryan D Edwards - Fall 2022
 
 | Assignment  | NBgitpuller Link  |  
 |---|---|
